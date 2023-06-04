@@ -18,7 +18,7 @@ void main() {
   });
 
   // Adding a data event to the stream with the controller
-  controller.sink.add('GeeksforGeeks!');
+  controller.sink.add('venkatesh!');
 
   // Adding an error event to the stream with the controller
   controller.addError('Error!');
